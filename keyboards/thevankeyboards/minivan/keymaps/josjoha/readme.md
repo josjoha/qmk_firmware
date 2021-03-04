@@ -1174,7 +1174,7 @@ another layer.
 16 Resources
 ============
 This links to an external file, with some development resources like
-Gimp .xcf files, pre-compiled hex files, …
+Gimp .xcf files, pre-compiled hex files, possibly video, …
 
 [Resources](http://socialism.nl/misc/minivan/ "Additional resources")
 
